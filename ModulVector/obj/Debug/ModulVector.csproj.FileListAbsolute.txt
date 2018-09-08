@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\ModulVector\ModulVector\bin\Debug\ModulVector.exe.config
+C:\Users\nikit\source\repos\ModulVector\ModulVector\bin\Debug\ModulVector.exe
+C:\Users\nikit\source\repos\ModulVector\ModulVector\bin\Debug\ModulVector.pdb
+C:\Users\nikit\source\repos\ModulVector\ModulVector\obj\Debug\ModulVector.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\ModulVector\ModulVector\obj\Debug\ModulVector.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\ModulVector\ModulVector\obj\Debug\ModulVector.exe
+C:\Users\nikit\source\repos\ModulVector\ModulVector\obj\Debug\ModulVector.pdb
